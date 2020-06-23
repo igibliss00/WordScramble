@@ -1,8 +1,10 @@
 # Word Scramble
 
-<img src="https://github.com/igibliss00/EasyBrowser/blob/master/README_assets/1.png" width="400">
-<img src="https://github.com/igibliss00/EasyBrowser/blob/master/README_assets/2.png" width="400">
-<img src="https://github.com/igibliss00/EasyBrowser/blob/master/README_assets/3.png" width="400">
+Word Scramble app is a game to create an anagram given a randomly generated word.  Unlike the traditional anagram, however, the new word does not have to use all the characters from the original word.  This app demonstrates the use of retrieving a resource from Swift's Bundle, inserting a row into the table view, reloading the table view, the closure in UIAlertController, the use of the "rangeOfMisspelledWord" method from the UITextChecker type, as well as properly exiting from a function with multiple if-else statements.
+
+<img src="https://github.com/igibliss00/WordScramble/blob/master/README_assets/1.png" width="400">
+<img src="https://github.com/igibliss00/WordScramble/blob/master/README_assets/2.png" width="400">
+<img src="https://github.com/igibliss00/WordScramble/blob/master/README_assets/3.png" width="400">
 
 ## Installing
 
